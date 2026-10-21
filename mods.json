@@ -1,0 +1,26 @@
+[
+  {
+    "id": "v1",
+    "name": "Aizen Mod v1",
+    "version": "v1",
+    "author": "Aizen",
+    "description": "Aizen Mod v1 - Skin Hack Edition",
+    "status": "available",
+    "urlVip": "https://github.com/Aizenxpubg/aizen-pubg/raw/main/v1.zip",
+    "urlFree": "https://github.com/Aizenxpubg/aizen-pubg/raw/main/v1free.zip",
+    "reviewImagesVip": [
+      "https://raw.githubusercontent.com/Aizenxpubg/aizen-pubg/main/review_v1_1.png"
+    ],
+    "reviewImagesFree": [
+      "https://raw.githubusercontent.com/Aizenxpubg/aizen-pubg/main/review_v1_free_1.png"
+    ],
+    "features": [
+      "Skin Hack Ingame",
+      "Skin Hack Lobby"
+    ],
+    "featuresFree": [
+      "Skin Hack Ingame",
+      "Skin Hack Lobby"
+    ]
+  }
+]
