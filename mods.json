@@ -18,5 +18,26 @@
       "Skin Hack Ingame",
       "Skin Hack Lobby"
     ]
+  },
+  {
+    "id": "v2",
+    "name": "Aizen Mod v2",
+    "version": "v2",
+    "author": "Aizen",
+    "description": "Aizen Mod v2 - Skin Hack Edition",
+    "status": "available",
+    "urlVip": "https://github.com/Aizenxpubgm/aizen-pubg/raw/main/v2.zip",
+    "urlFree": "https://github.com/Aizenxpubgm/aizen-pubg/raw/main/v2free.zip",
+    "reviewImagesVip": [],
+    "reviewImagesFree": [],
+    "features": [
+      "Feature Cek Langsung Di ingame",
+      "Skin Hack Ingame",
+      "Skin Hack Lobby"
+    ],
+    "featuresFree": [
+      "Skin Hack Ingame",
+      "Skin Hack Lobby"
+    ]
   }
 ]
