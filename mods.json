@@ -39,5 +39,42 @@
       "Skin Hack Ingame",
       "Skin Hack Lobby"
     ]
+  },
+  {
+    "id": "v3",
+    "name": "Aizen Mod v3",
+    "version": "v3",
+    "author": "Aizen",
+    "description": "Aizen Mod v3 - Ultimate Edition (Aimbot, ESP, Skin Hack & More)",
+    "status": "available",
+    "urlVip": "https://github.com/Aizenxpubgm/aizen-pubg/raw/main/v3.zip",
+    "urlFree": "https://github.com/Aizenxpubgm/aizen-pubg/raw/main/v3free.zip",
+    "reviewImagesVip": [],
+    "reviewImagesFree": [],
+    "features": [
+      "Aimbot",
+      "AimTouch Pro",
+      "ESP Full",
+      "Radar Esp",
+      "Health Bar Esp",
+      "Distance Esp",
+      "Wall Hack",
+      "Skin Hack Ingame",
+      "Skin Hack Lobby",
+      "Compensasi Recoil",
+      "Ipad View",
+      "Antena"
+    ],
+    "featuresFree": [
+      "AimTouch Pro",
+      "ESP Full",
+      "Radar Esp",
+      "Health Bar Esp",
+      "Distance Esp",
+      "Wall Hack",
+      "Ipad View",
+      "Skin Hack Ingame",
+      "Skin Hack Lobby"
+    ]
   }
 ]
